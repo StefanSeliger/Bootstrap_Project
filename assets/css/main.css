@@ -1,0 +1,10 @@
+.projects, .aboutUs, .services, .footer {
+    border-top: 1px solid darkgray; 
+    margin-bottom: 5vh; 
+}
+
+footer {
+    height: 30vh; 
+    background-color: darkgray; 
+    color: white; 
+}
